@@ -1,5 +1,5 @@
 # Projeto Trivia
-
+![trivia](https://user-images.githubusercontent.com/82068881/129907775-c6de7724-79f5-4840-8c72-8824c3687509.png)
 
 ***
 Você pode acessar o site no ar [aqui](https://kevin-ol.github.io/project-trivia-react-redux/).
